@@ -50,7 +50,7 @@ When user do not select budget
 And click on search  
 Then navigate user to buy page
 And close
-#============================================================
+
 @Successful_Search_Buy
 Scenario: Search with all Valid data
 Given user is on home page
@@ -93,8 +93,6 @@ When user select invalid budget
 And click on search  
 Then Alert please enter a valid Location or Project
 And close
-
-#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 @Successful_Buying_Assistance_home_loan
 Scenario: Successful Buying Assistance for home loan
