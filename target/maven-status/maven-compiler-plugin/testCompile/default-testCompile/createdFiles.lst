@@ -1,0 +1,6 @@
+com\magicbricks\utils\SetupDriver.class
+com\magicbricks\utils\Screenshot.class
+com\magicbricks_config\BrowserInit.class
+com\magicbricks_runner\Magicbrickspagefactory.class
+com\magicbricks_runner\MagicBricks_Runner.class
+com\magicbrics_step_definitions\Test_Steps.class
